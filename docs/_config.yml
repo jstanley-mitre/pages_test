@@ -22,7 +22,7 @@ baseurl: "/pages_test" # the subpath of your site, e.g. /blog
 # Build settings
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
-#color_scheme: or
+color_scheme: or
 #plugins:
 #  - jekyll-feed
 
