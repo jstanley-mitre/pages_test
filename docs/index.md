@@ -1,3 +1,9 @@
+---
+layout: default
+title: djsikfjsdklfjdskljf;;ldksfj;lkdasjfklsdjfklsdjlfksdklfmsdklm
+nav_order: 1
+---
+
 # Header 1
 Some stuff
 ## Header 2
